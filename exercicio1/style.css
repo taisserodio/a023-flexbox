@@ -8,6 +8,10 @@
   width: 100vw;
   background-color: lightgray;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
 }
 
 .item {
@@ -15,4 +19,10 @@
   background-color: white;
   height: 180px;
   width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
 }
+
+
